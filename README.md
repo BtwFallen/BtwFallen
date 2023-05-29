@@ -34,7 +34,7 @@
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 
-| <a href="https://t.me/CuteFallen"><img src="https://te.legra.ph/file/490b0be5466f7035f290f.jpg" width="900px" height="250px" /></a> |
+| <a href="https://t.me/CuteFallen"><img src="https://telegra.ph/file/a36c041e1af0c1b44a10f.jpg" width="900px" height="250px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[ғᴧʟʟᴇɴ ᴏᴡɴᴇʀ ᴏғ ᴍʏ ᴏᴡɴ ᴡᴏʀʟᴅ 💸](https://t.me/CuteFallen)**                                                                                |
 | <a href="https://t.me/FallenStatus"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/BtwFallen"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/BtwFallen"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>
