@@ -25,7 +25,7 @@
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
   
 
-[<img src="https://github-readme-stats.vercel.app/api?username=BtwFallen&count_private=true&show_icons=true&theme=chartreuse-light&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/BtwFallen) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwFallen&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/BtwFallen)
+[<img src="https://github-readme-stats.vercel.app/api?username=BtwFallen&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/BtwFallen) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwFallen&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/BtwFallen)
     
 
     
